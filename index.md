@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/wjq-4787/stet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wjq-4787/stet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+"智能操盘机器人使用说明","前言：                                                                                                       "+
+"为什么要机器人交易：机器人交易能克服人性弱点：追涨杀跌往往是广大投资者的实际表现"+
+"而机器人交易能够轻松协助投资者有纪律地打败人性弱点.减少盯盘的压力与情绪上的干扰"+
+"本机器人有自我学习能力，它能自动学习历史行情走势的顶和底，如当前行情走势接近历史行情走势的底时会择时开仓做多"+
+"接近历史行情走势的顶时会择时平多做空，能大概率的做到抄底逃顶注：本智能操盘机器人的作者正在努力强化它的自我学习"+
+"历史行情走势的顶和底的能力,希望能在后期研发出更加优秀的操盘机器人      温馨提示：我们投资者对金融市场要保持高度敬"+
+"畏，切不可动用要作其他用途的资金，更不可借钱来投资，用闲钱也不要重仓操作！。       操作说明： 机器人加载后第一步点击右上角白色三横的图标"+
+"设置好自己的邮箱，第二步阅读免责声明，如接受请点击我同意按钮，第三步根自己的资金量和操盘风格设置好参数，第四步点击启动自动操盘按钮，机器人"+
+"如正常运行您将收到一封验证受权通过的邮件,注意：如想重新设置参数须点击暂停自动操盘按钮方能重新设置，如想知道机器人的做单情况请点击启动消息推送"+
+"，这样如有开仓或平仓您都会收到一封关于您账户的详细报告。本机器人还提供了手动操作面板，以满操盘高手的须求，增加操盘乐趣，自动操盘是专为投资小白"+
+"研发的，这里由于编幅有限其他按钮的功能和作用请联系作者了解。   作者：吴加强__测试板");
